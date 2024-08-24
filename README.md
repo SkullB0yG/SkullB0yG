@@ -1,11 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">🌐 Welcome to My GitHub</h1>
 
 ###
+<h2 align="left">Hi 👋! My name is SkullB0yG and I'm a Developer from Colombia </h2>
+<p align="left">I am a technology enthusiast dedicated to creating innovative tools for automation and ethical hacking. Here, you'll find projects designed to optimize repetitive tasks, enhance security, and responsibly explore the depths of cyberspace. I work primarily with Go, Bash, Python, Java, and JavaScript to develop practical, effective solutions that drive efficiency and security in the digital world.</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -39,10 +37,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/SkullB0yG/SkullB0yG/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ###
 
