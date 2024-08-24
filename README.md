@@ -1,6 +1,6 @@
-<h1 align="left">🌐 Welcome to My GitHub
+<h1 align="left">🌐 Welcome to My GitHub<br>
 
-Hi 👋! My name is SkullB0yG and I'm a Developer from Colombia </h1>
+Hi, My name is SkullB0yG and I'm a Developer from Colombia </h1>
 <p align="left">I am a technology enthusiast dedicated to creating innovative tools for automation and ethical hacking. Here, you'll find projects designed to optimize repetitive tasks, enhance security, and responsibly explore the depths of cyberspace. I work primarily with Go, Bash, Python, Java, and JavaScript to develop practical, effective solutions that drive efficiency and security in the digital world.</p>
 
 
