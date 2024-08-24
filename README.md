@@ -37,11 +37,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+### ✍️ Random Dev Quote
+![](https://github-contributor-stats.vercel.app/api?username=SkullB0yG&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-##
-
-<br clear="both">
-
-<img src="snake.yml" alt="Snake animation" />
-
-###
