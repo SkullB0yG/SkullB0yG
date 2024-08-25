@@ -2,7 +2,6 @@
 
 Hi, My name is SkullB0yG and I'm a Developer from Colombia </h1>
 <p align="left">I am a technology enthusiast dedicated to creating innovative tools for automation and ethical hacking. Here, you'll find projects designed to optimize repetitive tasks, enhance security, and responsibly explore the depths of cyberspace. I work primarily with Go, Bash, Python, Java, and JavaScript to develop practical, effective solutions that drive efficiency and security in the digital world.</p>
-[Enviar correo a Skullboy](mailto:skullboy.dev@gmail.com)
 
 
 ###
@@ -35,7 +34,6 @@ Hi, My name is SkullB0yG and I'm a Developer from Colombia </h1>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mailto:skullboy.dev@gmail.com"  />
-  [Enviar correo a Skullboy](mailto:skullboy.dev@gmail.com)
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
