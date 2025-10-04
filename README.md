@@ -20,15 +20,27 @@
 
 <div align="center">
 
-## 🎌 **Mi Camino**
+## 🎌 **¿Quién Soy?**
 
-<img src="https://img.shields.io/badge/🆕-Nuevo_en_Hacking-8B5CF6?style=flat-square&logo=student&logoColor=white" />
-<img src="https://img.shields.io/badge/📚-Autodidacta-8B5CF6?style=flat-square&logo=book&logoColor=white" />
-<img src="https://img.shields.io/badge/💡-Programador-8B5CF6?style=flat-square&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/🚀-En_Crecimiento-8B5CF6?style=flat-square&logo=trending-up&logoColor=white" />
+`🇨🇴 Colombiano · 24 años · Autodidacta 100%`
 
-<br>
+**💻 +5 años programando** · **Especialista en Python** · **Bash & Go**
 
-*"Cada experto fue alguna vez un principiante"* ✨
+### ❤️ **Mi Pasión por el Hacking Ético**
+> Los retos que nunca terminan y el conocimiento que siempre crece. 
+> Cada día es una nueva oportunidad para aprender algo extraordinario.
 
+## 🔧 **Proyectos en Marcha**
+
+🗂️  FuzzerWeb          → Herramienta de fuzzing web
+🗂️  Sistema RouterDucky → Configuración personalizada
+
+```python 
+certificaciones = ["eCPPTv2", "OSCP"]
+print("🎓 Próximo objetivo:", certificaciones[0])
+print("🏆 Meta principal:", certificaciones[1])
+```
+✨ Mi Filosofía
+"Autodidacta por convicción, hacker ético por pasión.
+Todo lo que sé es fruto de mi curiosidad y perseverancia."
 </div>
