@@ -19,12 +19,13 @@
 
 
 <p align="center">
-  **Proximos retos:**
+  
+  Proximos retos:
   
   - 🗂️  FuzzerWeb  → Herramienta de fuzzing web
   - 🗂️  KillerDuck → Configuración personalizada
   
-  **Certificaciones:**
+  Certificaciones:
   
   - 🎓 Próximo objetivo: eCPPTv2 
   - 🏆 Meta principal: **OSCP**
