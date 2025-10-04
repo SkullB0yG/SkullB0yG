@@ -20,7 +20,7 @@
 
 
 
-
+**Proximos restos:**
 
 - 🗂️  FuzzerWeb  → Herramienta de fuzzing web
 - 🗂️  KillerDuck → Configuración personalizada
