@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  𝕊𝕜𝕦𝕝𝕝𝔹𝟘𝕪𝔾
+  SkullB0yG
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -36,3 +36,6 @@ class SkullB0yG:
 
 me = SkullB0yG()
 print(me.say_hi())
+
+🛡️  Metasploit    🔍 Nmap    🌐 Burp Suite
+📡 Wireshark     🔓 John     ⚔️  Hydra
