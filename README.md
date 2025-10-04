@@ -18,15 +18,13 @@
   <code><img src="https://img.icons8.com/color/24/000000/console.png"/> Bash</code>
 </p>
 
-<div align="center">
 
 
-## 🔧 **Proyectos en Marcha**
+
+## 🔧 **futuros Proyectos**
+🗂️  FuzzerWeb  → Herramienta de fuzzing web
+🗂️  KillerDuck → Configuración personalizada
 ```python 
-🗂️  FuzzerWeb          → Herramienta de fuzzing web
-🗂️  Sistema RouterDucky → Configuración personalizada
-
-
 certificaciones = ["eCPPTv2", "OSCP"]
 print("🎓 Próximo objetivo:", certificaciones[0])
 print("🏆 Meta principal:", certificaciones[1])
@@ -34,4 +32,3 @@ print("🏆 Meta principal:", certificaciones[1])
 ✨ Mi Filosofía
 "Autodidacta por convicción, hacker ético por pasión.
 Todo lo que sé es fruto de mi curiosidad y perseverancia."
-</div>
