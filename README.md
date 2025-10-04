@@ -3,9 +3,6 @@
      スカルボーイ
   </span>
 </h1>
- <span style="color: #8B5CF6; font-family: 'Courier New', monospace; font-size: 2.5em; font-weight: bold; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6; background: linear-gradient(45deg, #000000, #1a1a1a); padding: 15px 30px; border-radius: 10px; border: 2px solid #8B5CF6; display: inline-block; margin: 10px;">
-    成功を祈る、これが私の道だ 
-  </span>
 
 <h3 align="center">
   ⚡ Hacker Ético & Otaku
@@ -21,13 +18,14 @@
 </p>
 
 
-
-**Proximos retos:**
-
-- 🗂️  FuzzerWeb  → Herramienta de fuzzing web
-- 🗂️  KillerDuck → Configuración personalizada
-
-**Certificaciones:**
-
-- 🎓 Próximo objetivo: eCPPTv2 
-- 🏆 Meta principal: **OSCP**
+<p align="center">
+  **Proximos retos:**
+  
+  - 🗂️  FuzzerWeb  → Herramienta de fuzzing web
+  - 🗂️  KillerDuck → Configuración personalizada
+  
+  **Certificaciones:**
+  
+  - 🎓 Próximo objetivo: eCPPTv2 
+  - 🏆 Meta principal: **OSCP**
+</p>
