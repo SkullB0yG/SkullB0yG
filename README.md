@@ -21,14 +21,16 @@
 
 
 
-## 🔧 **futuros Proyectos**
-🗂️  FuzzerWeb  → Herramienta de fuzzing web
-🗂️  KillerDuck → Configuración personalizada
+
+- 🗂️  FuzzerWeb  → Herramienta de fuzzing web
+- 🗂️  KillerDuck → Configuración personalizada
+
 ```python 
 certificaciones = ["eCPPTv2", "OSCP"]
 print("🎓 Próximo objetivo:", certificaciones[0])
 print("🏆 Meta principal:", certificaciones[1])
 ```
 ✨ Mi Filosofía
+
 "Autodidacta por convicción, hacker ético por pasión.
 Todo lo que sé es fruto de mi curiosidad y perseverancia."
