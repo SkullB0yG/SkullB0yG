@@ -31,7 +31,7 @@
 - 🏆 Meta principal: **OSCP**
 
 
-<h2 align="center">
+<h2>
   <span style="color: #8B5CF6; font-family: 'Courier New', monospace; font-size: 2.5em; font-weight: bold; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6; background: linear-gradient(45deg, #000000, #1a1a1a); padding: 15px 30px; border-radius: 10px; border: 2px solid #8B5CF6; display: inline-block; margin: 10px;">
      I Will Do It, <b>This is my Ninja Way!!</b>  
   </span>
