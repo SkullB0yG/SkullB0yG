@@ -1,6 +1,6 @@
 ¡Claro que sí! Vamos a hacerlo épico con más arte ASCII, colores y elementos visuales:
 
-```markdown
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="35">
   𝕾𝖐𝖚𝖑𝖑𝕭𝟬𝖞𝕲
