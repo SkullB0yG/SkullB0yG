@@ -23,7 +23,6 @@
 
 ## 🔧 **Proyectos en Marcha**
 ```python 
-
 🗂️  FuzzerWeb          → Herramienta de fuzzing web
 🗂️  Sistema RouterDucky → Configuración personalizada
 
