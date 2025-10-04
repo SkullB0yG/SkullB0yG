@@ -25,12 +25,14 @@
 - 🗂️  FuzzerWeb  → Herramienta de fuzzing web
 - 🗂️  KillerDuck → Configuración personalizada
 
-```python 
-certificaciones = ["eCPPTv2", "OSCP"]
-print("🎓 Próximo objetivo:", certificaciones[0])
-print("🏆 Meta principal:", certificaciones[1])
-```
-✨ Mi Filosofía
+**Certificaciones:**
 
-"Autodidacta por convicción, hacker ético por pasión.
-Todo lo que sé es fruto de mi curiosidad y perseverancia."
+- 🎓 Próximo objetivo: eCPPTv2 
+- 🏆 Meta principal: **OSCP**
+
+
+<h2 align="center">
+  <span style="color: #8B5CF6; font-family: 'Courier New', monospace; font-size: 2.5em; font-weight: bold; text-shadow: 0 0 10px #8B5CF6, 0 0 20px #8B5CF6; background: linear-gradient(45deg, #000000, #1a1a1a); padding: 15px 30px; border-radius: 10px; border: 2px solid #8B5CF6; display: inline-block; margin: 10px;">
+     I Will Do It, <b>This is my Ninja Way!!</b>  
+  </span>
+</h2>
