@@ -1,20 +1,36 @@
-¡Claro que sí! Vamos a hacerlo épico con más arte ASCII, colores y elementos visuales:
-
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="35">
-  𝕾𝖐𝖚𝖑𝖑𝕭𝟬𝖞𝕲
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="35">
+  <pre>
+  ███████╗██╗  ██╗██╗   ██╗██╗     ██╗     ██████╗ ██╗   ██╗ ██████╗ 
+  ██╔════╝██║ ██╔╝██║   ██║██║     ██║     ██╔══██╗╚██╗ ██╔╝██╔════╝ 
+  ███████╗█████╔╝ ██║   ██║██║     ██║     ██████╔╝ ╚████╔╝ ██║  ███╗
+  ╚════██║██╔═██╗ ██║   ██║██║     ██║     ██╔══██╗  ╚██╔╝  ██║   ██║
+  ███████║██║  ██╗╚██████╔╝███████╗███████╗██████╔╝   ██║   ╚██████╔╝
+  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═════╝    ╚═╝    ╚═════╝ 
+  </pre>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=⚡+𝐇𝐚𝐜𝐤𝐞𝐫+𝐄𝐭𝐢𝐜𝐨+𝐲+𝐎𝐭𝐚𝐤𝐮;🐍+𝐏𝐲𝐭𝐡𝐨𝐧+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;🐹+𝐆𝐨𝐥𝐚𝐧𝐠+𝐄𝐧𝐭𝐮𝐬𝐢𝐚𝐬𝐭𝐚;🎌+𝐋𝐢𝐧𝐮𝐱+𝐋𝐨𝐯𝐞𝐫" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1%EF%B8%8F%20Hacker%20%C3%89tico%20%26%20Otaku;%F0%9F%90%8D%20Python%20Developer;%F0%9F%90%B9%20Golang%20Enthusiast;%F0%9F%8E%AC%20Linux%20Lover" />
+</p>
+
+<p align="center">
+  <!-- Línea 1: Blanco puro -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=580&lines=⚡+Hacker+Ético+%26+Otaku" />
+  <br>
+  <!-- Línea 2: Azul Python -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=3776AB&center=true&vCenter=true&width=500&lines=🐍+Python+Developer" />
+  <br>
+  <!-- Línea 3: Azul Go -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=00ADD8&center=true&vCenter=true&width=500&lines=🐹+Golang+Enthusiast" />
+  <br>
+  <!-- Línea 4: Amarillo Linux -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=FCC624&center=true&vCenter=true&width=500&lines=🐧+Linux+Lover" />
 </p>
 
 <div align="center">
   
 ```python
-# ⚡ CÓDIGO ANIME MODE ACTIVADO ⚡
 class CyberHacker:
     def __init__(self):
         self.name = "SkullB0yG"
