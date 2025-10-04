@@ -22,11 +22,12 @@
 
 
 ## 🔧 **Proyectos en Marcha**
+```python 
 
 🗂️  FuzzerWeb          → Herramienta de fuzzing web
 🗂️  Sistema RouterDucky → Configuración personalizada
 
-```python 
+
 certificaciones = ["eCPPTv2", "OSCP"]
 print("🎓 Próximo objetivo:", certificaciones[0])
 print("🏆 Meta principal:", certificaciones[1])
