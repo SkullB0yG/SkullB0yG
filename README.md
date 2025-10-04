@@ -20,15 +20,6 @@
 
 <div align="center">
 
-## 🎌 **¿Quién Soy?**
-
-`🇨🇴 Colombiano · 24 años · Autodidacta 100%`
-
-**💻 +5 años programando** · **Especialista en Python** · **Bash & Go**
-
-### ❤️ **Mi Pasión por el Hacking Ético**
-> Los retos que nunca terminan y el conocimiento que siempre crece. 
-> Cada día es una nueva oportunidad para aprender algo extraordinario.
 
 ## 🔧 **Proyectos en Marcha**
 
