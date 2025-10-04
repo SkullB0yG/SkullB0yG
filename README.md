@@ -1,34 +1,14 @@
 
-<h1 align="center">
-  
-  ███████╗██╗  ██╗██╗   ██╗██╗     ██╗     ██████╗ ██╗   ██╗ ██████╗ 
-  ██╔════╝██║ ██╔╝██║   ██║██║     ██║     ██╔══██╗╚██╗ ██╔╝██╔════╝ 
-  ███████╗█████╔╝ ██║   ██║██║     ██║     ██████╔╝ ╚████╔╝ ██║  ███╗
-  ╚════██║██╔═██╗ ██║   ██║██║     ██║     ██╔══██╗  ╚██╔╝  ██║   ██║
-  ███████║██║  ██╗╚██████╔╝███████╗███████╗██████╔╝   ██║   ╚██████╔╝
-  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═════╝    ╚═╝    ╚═════╝ 
- 
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1%EF%B8%8F%20Hacker%20%C3%89tico%20%26%20Otaku;%F0%9F%90%8D%20Python%20Developer;%F0%9F%90%B9%20Golang%20Enthusiast;%F0%9F%8E%AC%20Linux%20Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=4000&color=FFD43B&center=true&vCenter=true&width=580&lines=⚡+Hacker+Ético+%26+Otaku" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3500&color=3776AB&center=true&vCenter=true&width=550&lines=🐍+Python+Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3500&color=00ADD8&center=true&vCenter=true&width=550&lines=🐹+Golang+Enthusiast" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3500&color=FCC624&center=true&vCenter=true&width=550&lines=🐧+Linux+Expert" />
 </p>
-
-<p align="center">
-  <!-- Línea 1: Blanco puro -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=580&lines=⚡+Hacker+Ético+%26+Otaku" />
-  <br>
-  <!-- Línea 2: Azul Python -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=3776AB&center=true&vCenter=true&width=500&lines=🐍+Python+Developer" />
-  <br>
-  <!-- Línea 3: Azul Go -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=00ADD8&center=true&vCenter=true&width=500&lines=🐹+Golang+Enthusiast" />
-  <br>
-  <!-- Línea 4: Amarillo Linux -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&color=FCC624&center=true&vCenter=true&width=500&lines=🐧+Linux+Lover" />
-</p>
-
-<div align="center">
   
 ```python
 class CyberHacker:
