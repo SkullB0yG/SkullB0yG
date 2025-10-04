@@ -17,3 +17,18 @@
   <code><img src="https://img.icons8.com/color/24/000000/linux.png"/> Linux</code> • 
   <code><img src="https://img.icons8.com/color/24/000000/console.png"/> Bash</code>
 </p>
+
+<div align="center">
+
+## 🎌 **Mi Camino**
+
+<img src="https://img.shields.io/badge/🆕-Nuevo_en_Hacking-8B5CF6?style=flat-square&logo=student&logoColor=white" />
+<img src="https://img.shields.io/badge/📚-Autodidacta-8B5CF6?style=flat-square&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/💡-Programador-8B5CF6?style=flat-square&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀-En_Crecimiento-8B5CF6?style=flat-square&logo=trending-up&logoColor=white" />
+
+<br>
+
+*"Cada experto fue alguna vez un principiante"* ✨
+
+</div>
